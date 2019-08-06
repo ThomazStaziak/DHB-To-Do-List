@@ -22,3 +22,11 @@
   color: #fff;
   text-transform: uppercase;
 }
+
+.add:hover {
+  cursor: pointer;
+}
+
+.removeAll:hover {
+  cursor: pointer;
+}

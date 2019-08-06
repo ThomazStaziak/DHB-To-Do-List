@@ -19,3 +19,11 @@ div.tarefa {
   font-weight: bold;
   color: #4bd64b;
 }
+
+.Feito:hover {
+  cursor: pointer;
+}
+
+.Fazendo:hover {
+  cursor: pointer;
+}
