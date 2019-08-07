@@ -7,6 +7,7 @@ class Task extends Component {
     return (
       <div className={this.props.className}>
         <span>{this.props.title}</span>
+        <span>{this.props.date}</span>
         <span
           className={this.props.statusClassName}
           onClick={this.props.statusClick}
